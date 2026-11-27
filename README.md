@@ -13,7 +13,7 @@ Mata Kuliah Java Visual (SIH-6406) · UNPRI Prodi Sistem Informasi.
 
 ## Teknologi
 
-Java 17 · JavaFX 21 · Maven · Scene Builder · VS Code
+Java 25 · JavaFX 25 · Maven · Scene Builder · VS Code
 
 ## Cara Menjalankan
 
