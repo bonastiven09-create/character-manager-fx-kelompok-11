@@ -59,8 +59,7 @@ Screenshot berikut harus dibuat ulang dari aplikasi yang berjalan dan Scene Buil
 ![Aplikasi kosong]()
 ![Aplikasi berisi data](docs/02-data.png)
 ![Pesan error validasi](docs/03-error.png)
-![Scene Builder](<img width="655" height="439" alt="image" src="https://github.com/user-attachments/assets/7ec7eb08-353e-437b-b583-637906139261" />
-)
+![Scene Builder](<img width="655" height="439" alt="image" src="https://github.com/user-attachments/assets/bdc3b06b-dce4-497c-a7d7-71e83aacb362" />)
 
 ## Bukti Model Bersih
 
