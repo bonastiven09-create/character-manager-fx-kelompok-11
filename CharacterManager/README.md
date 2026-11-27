@@ -108,7 +108,7 @@ salinan daftar, rata-rata kosong, rata-rata bernilai, dan batas level Mage.
   - PR Controller direview oleh View Manager
 - Tag rilis: `v0.7`
 - Dosen collaborator: `evtaindra`
-- Repository: `[Belum diisi]`
+- Repository: `[https://github.com/bonastiven09-create/character-manager-fx-kelompok-11.git]`
 - Pull Request yang sudah merged: `[Belum diisi]`
 
 ## Pembagian Kerja
