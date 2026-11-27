@@ -7,9 +7,9 @@ Mata Kuliah Java Visual (SIH-6406) · UNPRI Prodi Sistem Informasi.
 
 | Nama | NIM | Peran | Username GitHub | Branch |
 |---|---|---|---|---|
-| Jesslyn | `253303621224` | Model Manager | `[Belum diisi]` | `feature/model` |
-| Bona Stiven | `253303621216` | View Manager | `[Belum diisi]` | `feature/view` |
-| Slavia | `253303621221` | Controller Manager | `[Belum diisi]` | `feature/controller` |
+| Jesslyn | `253303621224` | Model Manager | `[Jsslinnnn87]` | `feature/model` |
+| Bona Stiven | `253303621216` | View Manager | `[bonastiven09-create]` | `feature/view` |
+| Slavia | `253303621221` | Controller Manager | `[41hourly]` | `feature/controller` |
 
 ## Teknologi
 
