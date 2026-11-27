@@ -87,7 +87,7 @@ public class CharacterController {
         nameField.clear();
         typeCombo.getSelectionModel().clearSelection();
         levelSpinner.getValueFactory().setValue(1);
-        messageLabel.setText("Form telah direset");
+        messageLabel.setText("");
     }
 
     public void refreshList() {
